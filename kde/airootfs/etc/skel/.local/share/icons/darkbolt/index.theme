@@ -1,0 +1,7 @@
+[Icon Theme]
+Name=darkbolt
+Comment=A modern dark cursor for light themes
+Inherits=Adwaita
+
+[Cursor Theme]
+Name=darkbolt
